@@ -31,3 +31,7 @@ while True:
         print("Lựa chọn không hợp lệ.")
 
 print("Version DEV")
+
+print("New feature v2")
+
+print("TEST GIT CHANGE")

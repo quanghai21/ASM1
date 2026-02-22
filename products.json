@@ -1,0 +1,16 @@
+[
+    {
+        "id": "LT01",
+        "name": "Laptop Acer Gaming Nitro V 15 ANV15 41 R1JY - NH.QPFSV.001",
+        "brand": "Acer",
+        "price": 16500000,
+        "quantity": 5
+    },
+    {
+        "id": "LT02",
+        "name": "Laptop Asus TUF Gaming F16 FX607VJ-RL034W",
+        "brand": "Asus",
+        "price": 21300000,
+        "quantity": 4
+    }
+]

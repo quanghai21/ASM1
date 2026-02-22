@@ -1,6 +1,5 @@
 from product_manager import *
 
-
 products = load_data()
 
 while True:
@@ -30,3 +29,5 @@ while True:
         break
     else:
         print("Lựa chọn không hợp lệ.")
+
+print("Version DEV")

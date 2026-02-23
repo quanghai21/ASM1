@@ -41,3 +41,7 @@ print("tuan ngu")
 print("hh")
 print("hhh")
 print("ssss")
+
+print("siuuuuu")
+print("hai")
+

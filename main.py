@@ -44,4 +44,6 @@ print("ssss")
 
 print("siuuuuu")
 print("hai")
+print("su")
+print("hai dan")
 

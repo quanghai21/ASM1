@@ -12,5 +12,12 @@
         "brand": "Asus",
         "price": 21300000,
         "quantity": 4
+    },
+    {
+        "id": "LT03",
+        "name": "77",
+        "brand": "00",
+        "price": 77,
+        "quantity": 8
     }
 ]
